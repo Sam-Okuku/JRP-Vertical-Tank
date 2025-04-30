@@ -14,11 +14,11 @@ This project involved the preparation of comprehensive **As-Built drawings** for
 - **Calibration data** for dimensional verification
 - Final **as-built configuration** based on field measurements
 
-### 📂 Download Drawing
+### 📂 View Drawing
 
-👉 [Click here to download Vertical Tank As Built Drawing.pdf](https://github.com/Sam-Okuku/JRP-Vertical-Tank/raw/main/JRP%20Vertical%20Tank%20As%20Built%20Drawing.pdf)
+👉 [Click here to view Vertical Tank As Built Drawing.pdf](https://github.com/Sam-Okuku/JRP-Vertical-Tank/blob/main/JRP%20Vertical%20Tank%20As%20Built%20Drawing.pdf)
 
-> *Note: Ensure your browser supports direct PDF downloads.*
+> *Note: You can view the drawing directly in your browser on GitHub.*
 
 ### 🛠️ Tools Used
 - **AMETank** – For 3D modeling and generating fabrication-ready drawings
