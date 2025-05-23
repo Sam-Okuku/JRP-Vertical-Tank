@@ -1,26 +1,28 @@
-# JRP Vertical Tank – As-Built Drawings
+# Vertical Storage Tank – As-Built Drawings
 
-**Client**: JRP Ethiopia  
-**Project Type**: As-Built Technical Documentation (3D CAD Model, 2D Layouts, Weld & Calibration Details)
+**Project Type**: As-Built Technical Documentation  
+**Scope**: 3D CAD Model, 2D Layouts, Weld & Calibration Details
 
-## Description
+## 📝 Description
 
-This project involved the preparation of comprehensive **As-Built drawings** for a **Vertical Storage Tank** designed for **JRP Ethiopia**. The documentation reflects actual construction details including field modifications, weld configurations, and calibration dimensions to support compliance and operational readiness.
+This project involved the preparation of comprehensive **As-Built drawings** for a **Vertical Storage Tank**. The documentation captures the actual field conditions, including construction details, weld configurations, and calibration dimensions, to ensure compliance, quality assurance, and readiness for operational use.
 
 ### 🔧 Scope of Work
-- **3D CAD Model** of the vertical tank structure using **AMETank**
-- **2D fabrication and layout drawings**
-- **Weld detail representations** (positions, types, sizes)
-- **Calibration data** for dimensional verification
-- Final **as-built configuration** based on field measurements
+
+- **3D CAD Model** of the tank structure using **AMETank**  
+- **2D Fabrication and Layout Drawings**  
+- **Weld Details** – Positions, types, and sizes  
+- **Calibration Data** – Verified dimensional records based on field measurements  
+- Final **As-Built Configuration** including any site modifications
 
 ### 📂 View Drawing
 
-👉 [Click here to view Vertical Tank As Built Drawing.pdf](https://github.com/Sam-Okuku/JRP-Vertical-Tank/blob/main/JRP%20Vertical%20Tank%20As%20Built%20Drawing.pdf)
+👉 [Click here to view Vertical Tank As-Built Drawing (PDF)](https://github.com/Sam-Okuku/JRP-Vertical-Tank/blob/main/JRP%20Vertical%20Tank%20As%20Built%20Drawing.pdf)
 
-> *Note: You can view the drawing directly in your browser on GitHub.*
+> *Note: This PDF drawing can be previewed directly in your browser via GitHub.*
 
 ### 🛠️ Tools Used
-- **AMETank** – For 3D modeling and generating fabrication-ready drawings
-- **AutoCAD** – For detailed layout and symbol drafting
-- **Manual Field Notes** – For calibration and weld inspection input
+
+- **AMETank** – For 3D modeling and fabrication drawing generation  
+- **AutoCAD** – For detailed layout drafting and annotation  
+- **Manual Field Notes** – Used to incorporate on-site weld and calibration inputs
